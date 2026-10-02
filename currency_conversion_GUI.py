@@ -10,7 +10,7 @@ import wx
 from requests import get              
 
 base_url = "https://api.freecurrencyapi.com/"                          
-api_key = "fca_live_xcVLuMVbJFgFAZZWEnsJbQxPlaqGKi13icokmNog"         
+api_key = "enter you api key in here"         
 
 
 # =============================================================================
